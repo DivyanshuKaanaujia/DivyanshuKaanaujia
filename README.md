@@ -15,32 +15,31 @@
 - 📫 How to reach me:  
 
 <p>
-	<a href="https://www.linkedin.com/in/gagandeep-bhardwaj-986821225/">
+	<a href="www.linkedin.com/in/divyanshu-kanaujia-7865bb24b/">
    		<img src='https://camo.githubusercontent.com/5e3d78e5310a41c0667e07077cf93596229de398b154b83885dc068874ed5365/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' height ='30'/>
     </a>
 	<span>&nbsp;</span>
-	 <a href="https://github.com/GagandeepCodes/">
+	 <a href="https://github.com/DivyanshuKaanaujia">
     <img src="https://camo.githubusercontent.com/b2d1ae072c968dbeaf2232f0e1071ae5a7b218b11caec1ae5c69c10ef370a3cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333234323932652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" height ='30'/>
   </a>
   <span>&nbsp;</span>
-	 <a href="https://www.instagram.com/gaganheree/">
+	 <a href="https://www.instagram.com/divyanshu_kanaujia/">
     <img src="https://camo.githubusercontent.com/eff3e7484b1754de8279027247ccec9c3deaeb76b4c4946c5d634a8579c2c1ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" height ='30'/>
   </a>
 </p>
 
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
- <a href="https://auth.geeksforgeeks.org/user/gagandeepcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gagandeepcodes" height="30" width="40" /></a>
- <a href="https://www.leetcode.com/gagandeepcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gagandeepcodes" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/codeygagan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codeygagan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gbhardwaj572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gbhardwaj572" height="30" width="40" /></a>
+ <a href="https://auth.geeksforgeeks.org/user/divyansy8qw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="divyanshukaanaujia" height="30" width="40" /></a>
+ <a href="https://leetcode.com/divyanshuh45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divyanshukaanaujia" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshukaanujia&show_icons=true&locale=en&layout=compact" alt="divyanshukaanujia" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshukaanaujia&show_icons=true&locale=en&layout=compact" alt="divyanshukaanaujia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshukaanujia&show_icons=true&locale=en" alt="divyanshukaanujia" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshukaanaujia&show_icons=true&locale=en" alt="divyanshukaanaujia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshukaanujia&" alt="divyanshukaanujia" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshukaanaujia&" alt="divyanshukaanaujia" /></p>
